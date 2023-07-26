@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_namj_somoy">
+
+    <fragment
+        android:id="@+id/nav_settings"
+        android:name="com.example.dutyreminder.Settings.SettingFragment"
+        android:label="@string/setting_menu_division"
+        tools:layout="@layout/fragment_setting" />
+    <fragment
+        android:id="@+id/nav_namj_somoy"
+        android:name="com.example.dutyreminder.ui.home.HomeFragment"
+        android:label="@string/menu_namj"
+        tools:layout="@layout/fragment_home" />
+    <fragment
+        android:id="@+id/nav_Day"
+        android:name="com.example.dutyreminder.ui.Fajar.DayFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_day" />
+
+    <fragment
+        android:id="@+id/nav_week"
+        android:name="com.example.dutyreminder.ui.Week.WeekFragment"
+        android:label="@string/menu_gallery"
+        tools:layout="@layout/fragment_week" />
+
+    <fragment
+        android:id="@+id/nav_month"
+        android:name="com.example.dutyreminder.ui.Month.MonthFragment"
+        android:label="@string/menu_slideshow"
+        tools:layout="@layout/fragment_month" />
+    <fragment
+        android:id="@+id/nav_ramadan"
+        android:name="com.example.dutyreminder.ramadantimetable.Ramadan"
+        android:label="@string/ramadan"
+        tools:layout="@layout/fragment_ramadan"
+        />
+
+    <fragment
+        android:id="@+id/nav_jikir"
+        android:name="com.example.dutyreminder.jikir.JikirFragment"
+        android:label="@string/jikir"
+        tools:layout="@layout/fragment_jikir"
+        />
+
+    <fragment
+        android:id="@+id/nav_dua"
+        android:name="com.example.dutyreminder.Dualist.DuaFragment"
+        android:label="@string/dua"
+        tools:layout="@layout/fragment_dua"
+        />
+    <fragment
+        android:id="@+id/nav_zakat_cal"
+        android:name="com.example.dutyreminder.Zakat.ZakatMainFragment"
+        android:label="@string/jcal"
+        tools:layout="@layout/fragment_zakat_main"
+        />
+
+</navigation>

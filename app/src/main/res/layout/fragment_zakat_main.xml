@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="2"
+    android:orientation="vertical"
+    tools:context=".Zakat.ZakatMainFragment">
+
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:weightSum="4"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:orientation="vertical">
+
+        <com.google.android.material.button.MaterialButton
+            android:layout_margin="3dp"
+            android:outlineSpotShadowColor="@color/black"
+            android:elevation="3dp"
+            android:backgroundTint="@color/white"
+            android:textColor="#003E03"
+            android:layout_weight="1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/btnjHadis"
+            android:text="@string/jhadis"
+            />
+
+        <Button
+
+            android:elevation="3dp"
+            android:backgroundTint="@color/white"
+            android:textColor="#003E03"
+            android:layout_weight="1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/btnCal"
+            android:text="@string/jcal"
+            />
+    </LinearLayout>
+        <FrameLayout
+            android:id="@+id/month_frame"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+
+            >
+            <ImageView
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:src="@drawable/zakat"
+                android:layout_gravity="center"
+                />
+
+        </FrameLayout>
+
+
+
+    </LinearLayout>

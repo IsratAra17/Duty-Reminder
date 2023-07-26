@@ -1,0 +1,98 @@
+<resources>
+    <string name="app_name">Duty Reminder</string>
+    <string name="title_activity_navidrawer">NavidrawerActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">প্রতিদিন</string>
+    <string name="menu_gallery">সাপ্তাহিক</string>
+    <string name="menu_slideshow">এই মাস এর আমল</string>
+
+
+    <string name="salam">আসসালামু আলাইকুম</string>
+
+
+    <string-array name="division">
+        <item><bold>আপনার বিভাগ নির্বাচন করুন</bold></item>
+        <item>ঢাকা  </item>
+        <item>চট্টগ্ৰাম </item>
+        <item>খুলনা </item>
+        <item>বরিশাল </item>
+        <item>ময়মনসিংহ </item>
+        <item>রাজশাহী </item>
+        <item>রংপুর</item>
+        <item>সিলেট</item>
+    </string-array>
+
+
+    <string name="dailyHeading">দৈনিক আমল চার্ট</string>
+    <string name="fojor">ফজর এর আমল </string>
+    <string name="johor">জোহর  এর আমল  </string>
+    <string name="Asor">আসর এর আমল </string>
+    <string name="Magrib">মাগরিব  এর আমল </string>
+    <string name="Esha"> এশা আমল </string>
+    <string name="tahajjud">তাহাজ্জুদ এর আমল </string>
+
+
+    <string name="tfojor">ফজর  </string>
+    <string name="tjohor">জোহর </string>
+    <string name="tAsor">আসর </string>
+    <string name="tMagrib">মাগরিব  </string>
+    <string name="tEsha"> এশা </string>
+
+
+    <string name="jikir">জিকির</string>
+    <string name="dua">দুআ </string>
+    <string name="hello_blank_fragment">hello</string>
+    <string name="question">জিজ্ঞাসা</string>
+    <string name="daily">প্রতিদিন এর আমল</string>
+    <string name="week">সাপ্তাহিক আমল</string>
+    <string name="month">এই মাস এর আমল</string>
+    <string name="others">অন্যান্য</string>
+    <string name="notification">"নোটিফিকেশন "</string>
+    <string name="zakat">জাকাত ক্যালকুলেটর</string>
+    <string name="ramadan">রমজান</string>
+    <string name="month1">মুহররম</string>
+    <string name="month2">সফর</string>
+    <string name="month3">রবিউল আউয়াল</string>
+    <string name="month4">রবিউছ ছানি</string>
+    <string name="month5">জামাদিউল আউয়াল</string>
+    <string name="month6">জামাদিউছ ছানি </string>
+    <string name="month7">রজব</string>
+    <string name="month8">শা’বান</string>
+    <string name="month9">রামাজান</string>
+    <string name="month10">শাওয়াল</string>
+    <string name="month11">জুল কাইদাহ</string>
+    <string name="month12">জুল হিজ্জাহ</string>
+    <string name="week_siam">নফল সিয়াম</string>
+    <string name="week_text1">প্রত্যেক সপ্তাহের সোম এবং বৃহস্পতিবার সিয়াম পালন</string>
+    <string name="week_text2">আইয়ামে বীজ এর ৩ টি রোজা</string>
+    <string name="week2_text1">শুক্রবার এবং সূরা কাহাফ</string>
+    <string name="week2_text2">জুম্মার দিন এর ফজিলত করণীয়</string>
+    <string name="settingtexxt">আপনার জেলা পরিবর্তন করতে চান ?</string>
+    <string name="yes">হ্যাঁ</string>
+    <string name="no">না</string>
+    <string name="settings">সেটিংস</string>
+    <string name="menu_namj">নামাযের সময়</string>
+    <string name="setting_menu_division">জেলা পরিবর্তন</string>
+    <string name="din">দিন</string>
+    <string name="day">তারিখ</string>
+    <string name="sehri">সেহরির সময়</string>
+    <string name="iftar">ইফতার সময়</string>
+
+
+    <string name="tgold">বর্তমান ১ গ্রাম স্বর্ণের মূল্য(মূল্য পরিবর্তনশীল)</string>
+    <string name="tsilver">বর্তমান ১ গ্রাম রুপার মূল্য (মূল্য পরিবর্তনশীল)</string>
+    <string name="tCash">আপনার কাছে নগদ টাকা</string>
+    <string name="gold">স্বর্ণ</string>
+    <string name="rupa">রুপা</string>
+    <string name="cash">নগদ টাকা</string>
+    <string name="hisab">হিসাব করুন </string>
+    <string name="jhadis">হাদিস</string>
+    <string name="jcal">জাকাত হিসাব করুন</string>
+
+</resources>

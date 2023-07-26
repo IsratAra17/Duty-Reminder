@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+android:layout_width="match_parent"
+    android:layout_height="100dp"
+    android:id="@+id/linear4times"
+
+android:background="@drawable/splash_color"
+    >
+
+    <com.google.android.material.card.MaterialCardView
+        android:layout_width="match_parent"
+
+        android:layout_height="match_parent"
+        android:elevation="4dp"
+        android:layout_margin="10dp">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="3dp"
+            android:orientation="horizontal"
+            android:padding="5dp"
+            android:weightSum="4"
+            >
+    <TextView
+
+        android:id="@+id/text_ramadan_day"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="3dp"
+        android:layout_weight="1.2"
+        android:gravity="center"
+        android:text="@string/tMagrib"
+        android:textColor="#01147E" />
+
+
+    <TextView
+        android:id="@+id/text_ramadan_date"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="3dp"
+
+        android:layout_weight=".9"
+        android:gravity="center"
+        android:textColor="#01147E"/>
+
+            <TextView
+        android:id="@+id/text_time_iftar"
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="3dp"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text="text"
+                android:textColor="#01147E"  />
+
+
+    <TextView
+        android:id="@+id/text_time_sehri"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="3dp"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:textColor="#01147E"  />
+
+        </LinearLayout>
+    </com.google.android.material.card.MaterialCardView>
+</LinearLayout>
+
+

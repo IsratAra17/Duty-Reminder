@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".jikir.JikirFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <TextView
+        android:background="@drawable/jikir"
+android:layout_marginBottom="20dp"
+        android:layout_margin="20dp"
+        android:padding="20dp"
+        android:text="0"
+        android:gravity="center"
+        android:textSize="40sp"
+        android:id="@+id/text_jikir"
+
+        android:layout_gravity="center"
+        android:layout_width="350dp"
+        android:layout_height="350dp"/>
+
+
+<LinearLayout
+android:layout_marginBottom="100dp"
+    android:layout_gravity="bottom|center"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:weightSum="2">
+<Button
+    android:text="আবার শুরু"
+    android:textColor="#037E07"
+    android:id="@+id/button_jikir_restart"
+    android:elevation="3dp"
+    android:layout_margin="10dp"
+    android:backgroundTint="@color/white"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+/>
+    <Button
+        android:id="@+id/button_jikir_start"
+
+        android:textColor="#037E07"
+        android:elevation="3dp"
+        android:backgroundTint="@color/white"
+android:text="শুরু"
+        android:layout_margin="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        />
+</LinearLayout>
+</FrameLayout>

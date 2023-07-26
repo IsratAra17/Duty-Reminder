@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view"
+
+    >
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/daily"
+            android:menuCategory="secondary"
+            android:title="@string/menu_home"
+            />
+        <item
+            android:menuCategory="secondary"
+
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/appointment"
+
+            android:title="@string/menu_gallery" />
+        <item
+            android:menuCategory="secondary"
+
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/monthly"
+            android:title="@string/menu_slideshow" />
+    </group>
+
+
+    <item
+
+
+        android:icon="@drawable/ic_baseline_contact_support_24"
+        android:menuCategory="secondary"
+        android:title="@string/question">
+
+
+        <menu>
+            <item
+
+                android:menuCategory="secondary"
+
+                android:id="@+id/nav_dua"
+                android:icon="@drawable/dua"
+                android:title="@string/dua">
+
+            </item>
+            <item
+
+                android:menuCategory="secondary"
+
+                android:id="@+id/nav_jikir"
+                android:icon="@drawable/jikir"
+                android:title="@string/jikir">
+
+            </item>
+
+            <item
+
+
+                android:menuCategory="secondary"
+
+                android:id="@+id/nav_notification"
+                android:icon="@drawable/ic_baseline_notifications_24"
+                android:title="@string/notification">
+
+            </item>
+        </menu>
+    </item>
+
+    <item
+
+        android:icon="@drawable/ic_baseline_contact_support_24"
+        android:menuCategory="secondary"
+        android:title="@string/zakat">
+
+
+        <menu>
+            <item
+
+                android:menuCategory="secondary"
+
+                android:id="@+id/nav_zakat_cal"
+                android:icon="@drawable/zakat"
+                android:title="@string/zakat">
+
+            </item>
+            <item
+
+                android:menuCategory="secondary"
+
+
+                android:id="@+id/nav_ramadan"
+                android:icon="@drawable/ramadan"
+                android:title="@string/ramadan">
+
+            </item>
+            <item
+
+                android:menuCategory="secondary"
+
+                android:id="@+id/nav_question"
+                android:icon="@drawable/ic_baseline_contact_support_24"
+                android:title="@string/question">
+
+            </item>
+
+
+        </menu>
+    </item>
+
+</menu>

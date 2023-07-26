@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/USER/AndroidStudioProjects/DutyReminder/app/src/main/res/drawable-v24/ic_baseline_calendar_view_week_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/DutyReminder/app/src/main/res/drawable-v24/ic_baseline_today_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/DutyReminder/app/src/main/res/drawable-v24/splash_color.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/DutyReminder/app/src/main/res/drawable/ic_baseline_arrow_forward_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/DutyReminder/app/src/main/res/drawable/side_nav_bar.xml" value="0.2703125" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/DutyReminder/app/src/main/res/layout/activity_location.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/DutyReminder/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/DutyReminder/app/src/main/res/layout/activity_spalsh.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/DutyReminder/app/src/main/res/layout/app_bar_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/DutyReminder/app/src/main/res/layout/content_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/DutyReminder/app/src/main/res/layout/daydesignlayout.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/DutyReminder/app/src/main/res/layout/fragment_arabic_month1.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/DutyReminder/app/src/main/res/layout/fragment_arabic_month2.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/DutyReminder/app/src/main/res/layout/fragment_asor.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/DutyReminder/app/src/main/res/layout/fragment_day.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/DutyReminder/app/src/main/res/layout/fragment_dua.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/DutyReminder/app/src/main/res/layout/fragment_esha.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/DutyReminder/app/src/main/res/layout/fragment_fajar.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/DutyReminder/app/src/main/res/layout/fragment_home.xml" value="0.2" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/DutyReminder/app/src/main/res/layout/fragment_jikir.xml" value="0.12" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/DutyReminder/app/src/main/res/layout/fragment_magriv.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/DutyReminder/app/src/main/res/layout/fragment_month.xml" value="0.13072916666666667" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/DutyReminder/app/src/main/res/layout/fragment_month3.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/DutyReminder/app/src/main/res/layout/fragment_ramadan.xml" value="0.253125" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/DutyReminder/app/src/main/res/layout/fragment_setting.xml" value="0.264" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/DutyReminder/app/src/main/res/layout/fragment_slideshow.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/DutyReminder/app/src/main/res/layout/fragment_week.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/DutyReminder/app/src/main/res/layout/fragment_week2.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/DutyReminder/app/src/main/res/layout/fragment_zakat.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/DutyReminder/app/src/main/res/layout/fragment_zakat_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/DutyReminder/app/src/main/res/layout/fragment_zakathadis.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/DutyReminder/app/src/main/res/layout/fragment_zuhor.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/DutyReminder/app/src/main/res/layout/nav_header_main.xml" value="0.1" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/DutyReminder/app/src/main/res/layout/navidrawer.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/DutyReminder/app/src/main/res/layout/prayertimedesign.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/DutyReminder/app/src/main/res/layout/ramadantimedesign.xml" value="0.5036231884057971" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/DutyReminder/app/src/main/res/layout/slider1.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/DutyReminder/app/src/main/res/menu/navidrawer.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/DutyReminder/app/src/main/res/menu/navidrawer_drawer.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

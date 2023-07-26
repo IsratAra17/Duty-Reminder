@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+   android:background="@color/white"
+
+    tools:context=".ui.Week.WeekFragment2">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_height="wrap_content">
+
+    <!-- TODO: Update blank fragment layout -->
+    <Button
+        android:id="@+id/bt_weekmain2_1"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:backgroundTint="@color/white"
+        android:gravity="left"
+        android:padding="2dp"
+        android:text="@string/week2_text1"
+        android:textColor="#393636"
+        android:textSize="19sp">
+
+    </Button>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#005A04">
+
+    </View>
+
+    <Button
+        android:id="@+id/bt_weekmain2_2"
+
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:backgroundTint="@color/white"
+        android:gravity="left"
+        android:padding="2dp"
+        android:text="@string/week2_text2"
+        android:textColor="#393636"
+        android:textSize="19sp">
+
+    </Button>
+
+    <View
+
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#005A04">
+
+    </View>
+    </LinearLayout>
+
+</FrameLayout>
+

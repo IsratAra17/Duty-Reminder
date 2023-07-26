@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:id="@+id/month_frame"
+    android:layout_height="match_parent"
+
+    tools:context=".ui.Month.MonthFragment">
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:background="@drawable/splash_color"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:weightSum="12">
+
+
+
+
+
+
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_margin="20dp"
+            app:cardCornerRadius="100dp"
+            android:layout_weight="1"
+
+
+            android:backgroundTint="#F6F2CA"
+            >
+
+
+            <Button
+                android:id="@+id/bt_arabic_month1"
+
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+
+                android:backgroundTint="#F6F2CA"
+
+
+                android:text="@string/month1"
+                android:textColor="#004C03"
+                android:textSize="20sp">
+
+            </Button>
+
+        </androidx.cardview.widget.CardView>
+
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_margin="20dp"
+            app:cardCornerRadius="100dp"
+            android:layout_weight="1"
+            android:backgroundTint="#FFF5F8"
+            android:layout_gravity="end"
+            >
+
+
+            <Button
+
+                android:backgroundTint="#FFF5F8"
+                android:id="@+id/bt_arabic_month2"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+
+                android:text="@string/month2"
+                android:textColor="#004C03"
+                android:textSize="20sp">
+
+            </Button>
+
+        </androidx.cardview.widget.CardView>
+
+
+
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_margin="20dp"
+            app:cardCornerRadius="100dp"
+            android:layout_weight="1"
+            android:backgroundTint="#EAF7F8"
+
+            >
+
+
+            <Button
+
+                android:id="@+id/bt_arabic_month3"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:backgroundTint="#EAF7F8"
+                android:text="@string/month3"
+                android:textColor="#004C03"
+                android:textSize="20sp">
+
+            </Button>
+
+        </androidx.cardview.widget.CardView>
+
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_margin="20dp"
+            app:cardCornerRadius="100dp"
+            android:layout_weight="1"
+            android:backgroundTint="#D0FF9A"
+            android:layout_gravity="end"
+            >
+
+
+            <Button
+
+                android:id="@+id/bt_arabic_month4"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:backgroundTint="#D0FF9A"
+
+                android:text="@string/month4"
+                android:textColor="#004C03"
+                android:textSize="20sp">
+
+            </Button>
+
+        </androidx.cardview.widget.CardView>
+
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_margin="20dp"
+            app:cardCornerRadius="100dp"
+            android:layout_weight="1"
+            android:backgroundTint="#FFBF00"
+
+            >
+
+
+            <Button
+
+                android:id="@+id/bt_arabic_month5"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:backgroundTint="#FFBF00"
+                android:text="@string/month5"
+                android:textColor="#004C03"
+                android:textSize="20sp">
+
+            </Button>
+
+        </androidx.cardview.widget.CardView>
+
+
+
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_margin="20dp"
+            app:cardCornerRadius="100dp"
+            android:layout_weight="1"
+            android:layout_gravity="end"
+            android:backgroundTint="#E8DBFF"
+
+            >
+
+
+            <Button
+
+                android:id="@+id/bt_arabic_month6"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:backgroundTint="#E8DBFF"
+                android:text="@string/month6"
+                android:textColor="#004C03"
+                android:textSize="20sp">
+
+            </Button>
+
+        </androidx.cardview.widget.CardView>
+        <androidx.cardview.widget.CardView
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_margin="20dp"
+            app:cardCornerRadius="100dp"
+            android:layout_weight="1"
+            android:backgroundTint="#DEFFB8"
+
+            >
+
+
+            <Button
+
+                android:id="@+id/bt_arabic_month7"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:backgroundTint="#DEFFB8"
+
+                android:text="@string/month7"
+                android:textColor="#004C03"
+                android:textSize="20sp">
+
+            </Button>
+
+        </androidx.cardview.widget.CardView>
+
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_margin="20dp"
+            app:cardCornerRadius="100dp"
+            android:layout_weight="1"
+            android:layout_gravity="end"
+            android:backgroundTint="#FBF08B"
+
+            >
+
+
+            <Button
+
+                android:id="@+id/bt_arabic_month8"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:backgroundTint="#FBF08B"
+                android:text="@string/month8"
+                android:textColor="#004C03"
+                android:textSize="20sp">
+
+            </Button>
+
+        </androidx.cardview.widget.CardView>
+
+
+
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_margin="20dp"
+            app:cardCornerRadius="100dp"
+            android:layout_weight="1"
+            android:backgroundTint="#E0FCFF"
+
+            >
+
+
+            <Button
+
+                android:id="@+id/bt_arabic_month9"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:backgroundTint="#E0FCFF"
+                android:text="@string/month9"
+                android:textColor="#004C03"
+                android:textSize="20sp">
+
+            </Button>
+
+        </androidx.cardview.widget.CardView>
+
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_margin="20dp"
+            app:cardCornerRadius="100dp"
+            android:layout_weight="1"
+            android:layout_gravity="end"
+            android:backgroundTint="#D7FFA8"
+
+            >
+
+
+            <Button
+
+                android:id="@+id/bt_arabic_month10"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:backgroundTint="#D7FFA8"
+                android:text="@string/month10"
+                android:textColor="#004C03"
+                android:textSize="20sp">
+
+            </Button>
+
+        </androidx.cardview.widget.CardView>
+
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_margin="20dp"
+            app:cardCornerRadius="100dp"
+            android:layout_weight="1"
+            android:backgroundTint="#F6DCE5"
+
+            >
+
+
+            <Button
+
+                android:id="@+id/bt_arabic_month11"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:backgroundTint="#F6DCE5"
+                android:text="@string/month11"
+                android:textColor="#004C03"
+                android:textSize="20sp">
+
+            </Button>
+
+        </androidx.cardview.widget.CardView>
+
+
+
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_margin="20dp"
+            app:cardCornerRadius="100dp"
+            android:layout_weight="1"
+            android:layout_gravity="end"
+            android:backgroundTint="#FFC107"
+
+            >
+
+
+            <Button
+
+                android:id="@+id/bt_arabic_month12"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:backgroundTint="#FFC107"
+                android:text="@string/month12"
+                android:textColor="#004C03"
+                android:textSize="20sp">
+
+            </Button>
+
+        </androidx.cardview.widget.CardView>
+
+    </LinearLayout>
+
+</ScrollView>
+
+</FrameLayout>

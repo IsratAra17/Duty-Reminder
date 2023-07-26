@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "185271965964",
+    "project_id": "duty-reminder",
+    "storage_bucket": "duty-reminder.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185271965964:android:b2adcb2d8e3126be6c1129",
+        "android_client_info": {
+          "package_name": "com.example.dutyreminder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185271965964-rcgrp7h0s85ol7calkhpn4l0p67d8n1h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-WN9CxZzIkkMJ4sQWATckxjrVlGKNZJI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185271965964-rcgrp7h0s85ol7calkhpn4l0p67d8n1h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
